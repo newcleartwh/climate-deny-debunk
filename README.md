@@ -1,22 +1,18 @@
 # climate-deny-debunk
 
-Debunking climate deniers with [factfulness](https://www.gapminder.org/factfulness/).
+Debunking climate deniers with [factfulness](https://www.gapminder.org/factfulness/) and simple statistics.
 
 
 # First debunk 
 
-If you plot the below badly graphed and cherry picked data.
+Climate Denier: fmeeus1
+
+If you plot the, TWICE badly graphed and cherrypicked, data below properly 
 ![fakenews1.png](fakenews1.png)
-
-You still get an increasing trend:
-
-[Debunk 1 notebook here]()
-
-
-# Second debunk 
-
-The 
-
 ![fakenews2.png](fakenews2.png)
 
-[Debunk 1 notebook here]()
+You still get an increasing trend with simple linear regression:
+
+[Debunk 1 notebook here](fmeeus1.ipynb)
+
+
